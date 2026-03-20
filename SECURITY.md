@@ -3,7 +3,7 @@
 ## Reporting a Vulnerability
 Se ritieni di aver trovato un problema di sicurezza (es. script che può causare comportamenti dannosi, leak di dati, ecc.):
 - **NON** aprire una Issue pubblica con dettagli sensibili.
-- Contatta i maintainer a: **[assistenza@amv.it]**
+- Contatta i maintainer a: **assistenza@amv.it**
 - Includi:
   - link allo script (percorso nel repo)
   - versione MasterSap
