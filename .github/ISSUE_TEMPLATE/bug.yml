@@ -1,1 +1,32 @@
-
+name: Bug report (script)
+description: Segnala un problema con uno script del repository
+title: "[BUG] "
+labels: ["bug"]
+body:
+  - type: input
+    attributes:
+      label: Script (path o link)
+      placeholder: "es. community/mario/beam_generator.py"
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Versione MasterSap
+      placeholder: "es. 2026 R1"
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Passi per riprodurre
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Output atteso
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Output ottenuto / errori
+    validations:
+      required: true
