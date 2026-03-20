@@ -17,9 +17,9 @@ Grazie per voler contribuire! Questo repository raccoglie **script Python** per 
 2) **Unità esplicita**: ogni script deve dichiarare l’unità (m o cm) e mantenere coerenza.  
 3) **Numeri float**: quando usi float, usa il **punto** come separatore decimale (`30.0`, non `30,0`).  
 4) **Vincoli geometrici** (quando applicabili):
-   - travi: attenzione a segmenti troppo corti (es. lunghezze minime in funzione della scala del modello)
-   - piastre: spessore minimo e distanze minime tra nodi
-5) **ID univoci**: se gestisci tu gli ID, devono essere univoci; in alternativa lascia che sia MasterSap a generarli (se supportato).
+   - Elementi trave: attenzione a segmenti troppo corti (es. lunghezze minime in funzione della scala del modello)
+   - Elementi guscio/macro: attenzione a spessore minimo e distanze minime tra nodi
+5) **ID univoci**: gli ID devono essere univoci.
 6) **Nessun dato cliente**: non caricare modelli reali, nomi, indirizzi, log o file contenenti dati identificativi.
 
 > Le regole dettagliate sono in `docs/style-guide.md`.
