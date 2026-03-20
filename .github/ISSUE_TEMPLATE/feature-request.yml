@@ -1,1 +1,22 @@
-
+name: Feature / Script request
+description: Richiedi un nuovo script o un miglioramento
+title: "[REQ] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    attributes:
+      label: Obiettivo
+      description: "Cosa vuoi ottenere?"
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Contesto d'uso
+      description: "Quale tipo di modello? quali vincoli?"
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Esempio input/output
+    validations:
+      required: false
