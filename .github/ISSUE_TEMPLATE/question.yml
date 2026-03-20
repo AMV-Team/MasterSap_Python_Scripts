@@ -1,1 +1,10 @@
-
+name: Question
+description: Domanda generale sugli script
+title: "[Q] "
+labels: ["question"]
+body:
+  - type: textarea
+    attributes:
+      label: Domanda
+    validations:
+      required: true
