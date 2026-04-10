@@ -31,7 +31,7 @@ Ogni script deve dichiarare:
 - scopo, input, output, limitazioni
 
 ## 📘 Documentazione
-- [MasterPy commands](docs/commands/MasterPy-commands.pdf)
+- [MasterPy Commands (PDF)](docs/commands/MasterPy-commands.pdf)
 - [MasterPy commands](docs/commands/MasterPy-commands.md)
 
 ## Licenza
