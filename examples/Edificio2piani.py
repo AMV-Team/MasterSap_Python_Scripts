@@ -1,3 +1,8 @@
+# Per versioni MasterSap 2026
+# Unita' di misura dello script: cm
+# Script per generare un edificio elementare di piani con quattro colonne, 
+# travi perimetrali e macro di solaio. La pianta e' 500x500 cm, i piani sono alti 300 cm ciascuno.
+ 
 import MS
  
 MS.SetUndo()
