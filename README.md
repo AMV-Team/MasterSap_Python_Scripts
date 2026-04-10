@@ -30,6 +30,10 @@ Ogni script deve dichiarare:
 - unità (m/cm)
 - scopo, input, output, limitazioni
 
+## 📘 Documentazione
+- [MasterPy commands](docs/commands/MasterPy-commands.pdf)
+- [MasterPy commands](docs/commands/MasterPy-commands.md)
+
 ## Licenza
 Questo progetto è rilasciato sotto **Apache-2.0**. Vedi: LICENSE
 
