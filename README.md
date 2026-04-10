@@ -32,7 +32,6 @@ Ogni script deve dichiarare:
 
 ## 📘 Documentazione
 - [MasterPy Commands (PDF)](docs/commands/MasterPy-commands.pdf)
-- [MasterPy commands](docs/commands/MasterPy-commands.md)
 
 ## Licenza
 Questo progetto è rilasciato sotto **Apache-2.0**. Vedi: LICENSE
