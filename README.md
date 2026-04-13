@@ -24,6 +24,18 @@ Vedi: CONTRIBUTING.md
 - `verified/` - script della community verificati da AMV
 - `docs/` - documentazione, linee guida e FAQ
 
+## Script disponibili
+
+| Path | Stato  | Descrizione |
+|---|---|---|
+| `examples/Edificio2piani.py` | esempio | Basic two-storey building generation example |
+
+## Documentazione
+- vedi `community/readme.md` per i contributi della community
+- vedi `verified/readme.md` per gli script verificati
+- vedi `docs/faq.md` per le questioni più comuni
+- vedi `CONTRIBUTING.md` per le regole di contribuzione
+
 ## Compatibilità
 Ogni script deve dichiarare:
 - versione MasterSap testata
