@@ -28,13 +28,15 @@ Grazie per voler contribuire! Questo repository raccoglie **script Python** per 
 Ogni script deve iniziare con:
 
 ```python
+# ============================================================
 # MasterSap Script
-# Title: ...
-# Author: ...
-# License: Apache-2.0
-# Tested on: MasterSap YYYY (build/patch if known)
-# Units: m / cm
-# Purpose: ...
-# Inputs: ...
-# Output: ...
-# Limitations: ...
+# Titolo: <titolo breve>
+# Autore: <nome / nick>
+# Licenza: Apache-2.0
+# Testato su: MasterSap YYYY ReleaseNumber <es. MasterSap 2026 R1 / MasterSap 2026 R2 ...>
+# Unità: <kg | kN; cm | m>
+# Scopo: <cosa fa lo script in 1-3 righe>
+# Input: <parametri, file richiesti, assunzioni>
+# Output: <cosa crea/modifica in MasterSap>
+# Limitazioni: <vincoli noti, casi non gestiti, performance, ecc.>
+# ============================================================
