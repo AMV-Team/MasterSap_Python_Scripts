@@ -1,5 +1,5 @@
 # MasterSap Script
-# Titolo: Edificio di 2 paini
+# Titolo: Edificio di 2 piani
 # Autore: Giordano
 # Licenza: Apache-2.0
 # Testato su: MasterSap 2026
