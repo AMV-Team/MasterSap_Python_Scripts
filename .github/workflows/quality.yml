@@ -1,0 +1,30 @@
+# Verifica che gli header siano completi.
+# Controlla che i file Python siano almeno compilabili dal punto di vista sintattico.
+
+name: Quality Checks
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Validate script headers
+        run: python .github/scripts/check_headers.py
+
+      - name: Compile Python files
+        run: |
+          python -m compileall examples community verified
