@@ -9,7 +9,21 @@
 Controlla in quale cartella si trova, la versione di MasterSap su cui è stato testato e le limitazioni dichiarate nell'header.
 
 ## Cosa deve contenere ogni script?
-Ogni script deve includere un header con titolo, autore, stato, versione testata, unità, scopo, input, output e limitazioni.
+Ogni script deve includere un header completo
+```python
+# ============================================================
+# MasterSap Script
+# Titolo: <titolo breve>
+# Autore: <nome / nick>
+# Licenza: Apache-2.0
+# Testato su: MasterSap YYYY ReleaseNumber <es. MasterSap 2026 R1 / MasterSap 2026 R2 ...>
+# Unità: <kg | kN; cm | m>
+# Scopo: <cosa fa lo script in 1-3 righe>
+# Input: <parametri, file richiesti, assunzioni>
+# Output: <cosa crea/modifica in MasterSap>
+# Limitazioni: <vincoli noti, casi non gestiti, performance, ecc.>
+# ============================================================
+```
 
 ## Posso caricare uno script con dati di un cliente?
 No. I contributi non devono contenere dati sensibili, riservati o riferimenti a progetti di clienti.
