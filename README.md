@@ -19,10 +19,10 @@ Benvenuto/a! Questo repository raccoglie **script Python** per automatizzare e v
 Vedi: CONTRIBUTING.md
 
 ## Struttura del repository
-- `examples/` — esempi piccoli e robusti
-- `community/` — script della community
-- `verified/` — script “AMV Verified”
-- `docs/` — linee guida e FAQ
+- `examples/` - esempi ufficiali, piccoli e robusti
+- `community/` - script della community
+- `verified/` - script della community verificati da AMV
+- `docs/` - documentazione, linee guida e FAQ
 
 ## Compatibilità
 Ogni script deve dichiarare:
