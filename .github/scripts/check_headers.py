@@ -1,3 +1,8 @@
+# Controlla che ogni .py dentro:
+# examples/ community/ verified/
+# contenga tutti i campi obbligatori dell’header.
+# In più segnala se trova ..., così eviti di lasciare placeholder.
+
 from pathlib import Path
 import sys
 
