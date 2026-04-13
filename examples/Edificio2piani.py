@@ -4,9 +4,9 @@
 # Licenza: Apache-2.0
 # Testato su: MasterSap 2026
 # Unità: cm
-# Scopo: generare un edificio elementare di piani con quattro colonne, travi perimetrali e macro di solaio. La pianta e' 500x500 cm, i piani sono alti 300 cm ciascuno.
-# Input: ...
-# Output: ...
+# Scopo: Esempio #1
+# Input: nulla
+# Output: genera un edificio elementare di 2 piani con quattro colonne, travi perimetrali e macro di solaio. La pianta e' 500x500 cm, i piani sono alti 300 cm ciascuno
 # Limitazioni: Esempio d'uso
 
 import MS
