@@ -1,8 +1,14 @@
-# Per versioni MasterSap 2026
-# Unita' di misura dello script: cm
-# Script per generare un edificio elementare di piani con quattro colonne, 
-# travi perimetrali e macro di solaio. La pianta e' 500x500 cm, i piani sono alti 300 cm ciascuno.
- 
+# MasterSap Script
+# Titolo: Edificio di 2 paini
+# Autore: Giordano
+# Licenza: Apache-2.0
+# Testato su: MasterSap 2026
+# Unità: cm
+# Scopo: generare un edificio elementare di piani con quattro colonne, travi perimetrali e macro di solaio. La pianta e' 500x500 cm, i piani sono alti 300 cm ciascuno.
+# Input: ...
+# Output: ...
+# Limitazioni: Esempio d'uso
+
 import MS
  
 MS.SetUndo()
