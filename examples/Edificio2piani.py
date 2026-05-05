@@ -1,13 +1,15 @@
+# ============================================================
 # MasterSap Script
-# Titolo: Edificio di 2 piani
-# Autore: Giordano
+# Titolo: Esempio01
+# Autore: AG - AMV
 # Licenza: Apache-2.0
-# Testato su: MasterSap 2026
-# Unità: cm
-# Scopo: Esempio #1
-# Input: nulla
-# Output: genera un edificio elementare di 2 piani con quattro colonne, travi perimetrali e macro di solaio. La pianta e' 500x500 cm, i piani sono alti 300 cm ciascuno
-# Limitazioni: Esempio d'uso
+# Testato su: MasterSap 2026 R1
+# Unità: <kg; cm>
+# Scopo: Esempio applicativo
+# Input: no
+# Output: Edificio a 2 piani in c.a.
+# Limitazioni: Esempio d’uso
+# ============================================================
 
 import MS
  
