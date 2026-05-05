@@ -28,7 +28,10 @@ Vedi: CONTRIBUTING.md
 
 | Path | Stato  | Descrizione |
 |---|---|---|
-| `examples/Edificio2piani.py` | esempio | Basic two-storey building generation example |
+| `examples/AMV01_Edificio2piani.py` | Esempio | Edificio a 2 piani c.a. |
+| `examples/AMV02_Costruzione.py` | Esempio | Edificio a 3 piani c.a. e acciaio |
+| `examples/AMV03_Crociera.py` | Esempio | Volta a crociera (solo nodi) |
+| `examples/AMV04_Reticolare.py` | Esempio | Capriata Mohnie |
 
 ## Documentazione
 - vedi `community/readme.md` per i contributi della community
