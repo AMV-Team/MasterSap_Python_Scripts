@@ -14,7 +14,7 @@ Benvenuto/a! Questo repository raccoglie **script Python** per automatizzare e v
 ## Come partecipare
 - **Domande, idee, showcase:** usa **Discussions**
 - **Bug/requests concreti:** apri una **Issue**
-- **Contributi di codice:** invia una **Pull Request**
+- **Contributi di script:** invia una **Pull Request**
 
 Vedi: CONTRIBUTING.md
 
